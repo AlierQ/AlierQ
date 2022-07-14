@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 😄 I’m AlierQ
-- 👀 Welcome to your visit
+- 👀 Welcome to my Github
 - 🌱 I’m currently learning Vue.js
+- 🪐 My personal Blog：[AlierQ's Blog](https://alierq.space)
 - 🔖 一款基于 Vue + TypeScript 的本地记账App：[薄荷流水](https://github.com/AlierQ/Mint-vue)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlierQ&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
