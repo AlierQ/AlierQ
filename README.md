@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 😄 I’m AlierQ
 - 👀 Welcome to your visit
 - 🌱 I’m currently learning Vue.js
-- 🔖 一款基于 Vue + TypeScript 的本地记账App：[薄荷流水](https://alierq.github.io/Mint-vue-pages/)
+- 🔖 一款基于 Vue + TypeScript 的本地记账App：[薄荷流水](https://github.com/AlierQ/Mint-vue)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlierQ&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
