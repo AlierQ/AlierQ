@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 I’m AlierQ
-- 👀 Welcome to my Github
-- 🌱 I’m currently learning Vue.js
-- 🪐 My personal Blog：[AlierQ's Blog](https://alierq.space)
+- 😄 你好，我是 AlierQ
+- 👀 欢迎您访问我的 Github
+- 🌱 我目前正在学习 Vue.js
+- 🪐 欢迎访问我的个人博客 [AlierQ's Blog](https://alierq.space)
 - 🔖 一款基于 Vue + TypeScript 的本地记账App：[薄荷流水](https://github.com/AlierQ/Mint-vue)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlierQ&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
