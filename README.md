@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 👀 欢迎您访问我的 Github
 - 🌱 我目前正在学习 Vue.js
 - 🪐 欢迎访问我的个人博客 [AlierQ's Blog](https://alierq.space)
-- 🔖 一款基于 Vue + TypeScript 的本地记账App：[薄荷流水](https://github.com/AlierQ/Mint-vue)
+- 🔖 一款基于 Vue2 + TypeScript 的本地记账App：[薄荷流水](https://github.com/AlierQ/Mint-vue)
+- 🔖 一款基于 Vue3 + TypeScript 的UI组件库：[One UI](https://github.com/AlierQ/OneUI-vue)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlierQ&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
