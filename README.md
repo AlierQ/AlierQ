@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 😄 你好，我是 AlierQ
 - 👀 欢迎您访问我的 Github
-- 🌱 我目前正在学习 React Vue
+- 🌱 我目前正在学习 `React`、`Vue`、`TypeScript`
 - 🪐 欢迎访问我的个人博客 [AlierQ's Blog](https://alierq.space)
 - 🔖 一份精美的Web个人简历：[个人简历](https://github.com/AlierQ/resume)
 - 🔖 一款基于 Vue3 + TypeScript 的UI组件库：[OneUI 组件库](https://github.com/AlierQ/OneUI-vue)
